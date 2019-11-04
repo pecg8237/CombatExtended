@@ -72,6 +72,8 @@
         </li>
       </secondaryDamage>
 			<armorPenetrationBase>0.65</armorPenetrationBase>
+			<armorPenetrationSharp>8</armorPenetrationSharp>
+			<armorPenetrationBlunt>7</armorPenetrationBlunt>
 			<spreadMult>17.8</spreadMult>
 		</projectile>
 	</ThingDef>

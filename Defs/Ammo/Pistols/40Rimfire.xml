@@ -58,7 +58,7 @@
 			<speed>26</speed>
 			<damageAmountBase>4</damageAmountBase>
 			<armorPenetrationBase>0.098</armorPenetrationBase>
-			<armorPenetrationSharp>0</armorPenetrationSharp>
+			<armorPenetrationSharp>1</armorPenetrationSharp>
 			<armorPenetrationBlunt>1.360</armorPenetrationBlunt>
 			<dropsCasings>true</dropsCasings>
 		</projectile>

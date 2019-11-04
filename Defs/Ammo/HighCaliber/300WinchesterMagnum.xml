@@ -99,6 +99,8 @@
     <projectile Class="CombatExtended.ProjectilePropertiesCE">
       <damageAmountBase>21</damageAmountBase>
 			<armorPenetrationBase>0.689</armorPenetrationBase>
+			<armorPenetrationSharp>9</armorPenetrationSharp>
+			<armorPenetrationBlunt>110.76</armorPenetrationBlunt>
     </projectile>
   </ThingDef>
 
@@ -108,6 +110,8 @@
     <projectile Class="CombatExtended.ProjectilePropertiesCE">
       <damageAmountBase>29</damageAmountBase>
 			<armorPenetrationBase>0.539</armorPenetrationBase>
+			<armorPenetrationSharp>4</armorPenetrationSharp>
+			<armorPenetrationBlunt>110.76</armorPenetrationBlunt>
     </projectile>
   </ThingDef>
 
@@ -117,6 +121,8 @@
     <projectile Class="CombatExtended.ProjectilePropertiesCE">
       <damageAmountBase>13</damageAmountBase>
 			<armorPenetrationBase>0.839</armorPenetrationBase>
+			<armorPenetrationSharp>18</armorPenetrationSharp>
+			<armorPenetrationBlunt>110.76</armorPenetrationBlunt>
       <secondaryDamage>
         <li>
           <def>Flame_Secondary</def>
